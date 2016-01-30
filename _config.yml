@@ -1,7 +1,7 @@
 name: Gayle Lanier
 favicon: null
-layout_spectrum: 0.43100775429047644
-typography_spectrum: 0.6809545643627644
+layout_spectrum: 0.25812
+typography_spectrum: 0.25331
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#020100'
+    - '#f5f3ff'
+    - '#96a0b6'
+    - '#5c4433'
+    - '#538dfb'
   brandStrength: 0.1922351128887385
   lightness: 0.8127646902576089
   saturation: 0.6061071546282619
