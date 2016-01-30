@@ -1,0 +1,28 @@
+name: Gayle Lanier
+favicon: null
+layout_spectrum: 0.43100775429047644
+typography_spectrum: 0.6809545643627644
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.1922351128887385
+  lightness: 0.8127646902576089
+  saturation: 0.6061071546282619
+  rhythmicContrast: 0.38885763683356345
+purpose: []
